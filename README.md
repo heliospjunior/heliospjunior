@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hélio Júnior</h1>
+<h3 align="center">Hi 👋, I'm Hélio Júnior</h3>
 <p align="center">
 
 I'm from Brazil.
