@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hélio Júnior</h1>
-<h3 align="center">
+<p align="center">
 
 I'm from Brazil.
 
@@ -11,7 +11,7 @@ I have Front End as an opportunity to better explore the logical and exact basis
 
 
 Hélio Paiva Júnior
-</h3>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
