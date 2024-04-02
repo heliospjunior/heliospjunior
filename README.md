@@ -3,11 +3,12 @@
 
 I'm from Brazil.
 
-I'm starting out in Front End Development, and I'm currently studying React.
+I'm starting out in Front End Development, but I'm currently studying Java and QA.
 
-I graduated in Control and Automation Engineering (2014) and currently work as a Tattoo and Artist, where I explore my creativity a lot.
+I graduated in Control and Automation Engineering (2014) and currently I am a microentrepreneur, where I explore my creativity and liberty.
 
-I have Front End as an opportunity to better explore the logical and exact basis of my higher education, and the creative basis of my current profession.
+I'm looking for an opportunity as a QA or Junior Java Developer, to explore the logical and exact basis of my higher education, 
+and my experience as a microentrepreneur.
 
 
 Hélio Paiva Júnior
