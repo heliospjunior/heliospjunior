@@ -3,7 +3,7 @@
 
 I'm from Brazil.
 
-I'm starting out in Front End Development, but I'm currently studying Java and QA.
+I'm starting out in Front End Development, but I'm currently studying JavaScript, TypeScript and QA.
 
 I graduated in Control and Automation Engineering (2014) and currently I am a microentrepreneur, where I explore my creativity and liberty.
 
