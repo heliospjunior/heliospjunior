@@ -1,14 +1,15 @@
 <h3 align="center">Hi 👋, I'm Hélio Júnior</h3>
 <p align="center">
 
-I'm from Brazil.
+Profissional em transição para a área de Dados, com formação em Engenharia de Controle e Automação finalizando pós-graduação em Engenharia de Software e iniciando pós-Graduação em Ciência de Dados. 
 
-I'm starting out in Front End Development, but I'm currently studying JavaScript, TypeScript and QA.
+Atuo como Analista de Suporte ERP interno, onde trabalho diariamente com testes exploratórios, de integração e de sistemas WEB. E tenho vivência em administração, compras, vendas e supply chain.
 
-I graduated in Control and Automation Engineering (2014) and currently I am a microentrepreneur, where I explore my creativity and liberty.
+Atualmente, estou focado no desenvolvimento de habilidades em Ciência de Dados, com conhecimentos em Excel, SQL, Power BI e Python. Tenho me dedicado à construção de um portfólio com projetos práticos de análise de dados e criação de dashboards, consolidando minha capacidade de transformar dados em insights estratégicos.
 
-I'm looking for an opportunity as a QA or Junior Java Developer, to explore the logical and exact basis of my higher education, 
-and my experience as a microentrepreneur.
+Também possuo conhecimentos em FIGMA, e linguagens HTML/CSS, JavaScript, TypeScript, e Angular, o que amplia minha visão técnica e facilita a comunicação com diferentes equipes de tecnologia.
+
+Sou uma pessoa movida por desafios e aprendizado contínuo. Tenho facilidade em adquirir novos conhecimentos e me adapto rapidamente a diferentes contextos. Um ambiente ideal é aquele em que possa explorar minha capacidade analítica, com visão data-driven e minhas habilidades técnicas em projetos de dados, contribuindo para soluções estratégicas e tomadas de decisão baseadas em dados.
 
 
 Hélio Paiva Júnior
