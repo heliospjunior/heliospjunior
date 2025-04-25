@@ -1,24 +1,40 @@
-<h3 align="center">Hi 👋, I'm Hélio Júnior</h3>
-<p align="center">
+# 👋 Olá, eu sou o Helio Paiva Júnior
 
-Profissional em transição para a área de Dados, com formação em Engenharia de Controle e Automação finalizando pós-graduação em Engenharia de Software e iniciando pós-Graduação em Ciência de Dados. 
+🎓 Estudante de **Ciência de Dados**, atualmente iniciando uma **pós-graduação na área**.  
+📊 Tenho estudado e aplicado ferramentas como **Python**, **SQL**, **Power BI** e **Estatística**, com foco em projetos de análise de dados que gerem insights reais.  
+💼 Em transição de carreira para atuar como **Analista de Dados Júnior**.
 
-Atuo como Analista de Suporte ERP interno, onde trabalho diariamente com testes exploratórios, de integração e de sistemas WEB. E tenho vivência em administração, compras, vendas e supply chain.
+---
 
-Atualmente, estou focado no desenvolvimento de habilidades em Ciência de Dados, com conhecimentos em Excel, SQL, Power BI e Python. Tenho me dedicado à construção de um portfólio com projetos práticos de análise de dados e criação de dashboards, consolidando minha capacidade de transformar dados em insights estratégicos.
+### 🚀 Projetos em destaque
 
-Também possuo conhecimentos em FIGMA, e linguagens HTML/CSS, JavaScript, TypeScript, e Angular, o que amplia minha visão técnica e facilita a comunicação com diferentes equipes de tecnologia.
+- [🦸‍♂️ Análise de Dados – Avengers](https://github.com/heliospjunior/analise-dados-avengers)  
+  Análise exploratória feita com SQL e Power BI, utilizando dados dos Vingadores da Marvel.
 
-Sou uma pessoa movida por desafios e aprendizado contínuo. Tenho facilidade em adquirir novos conhecimentos e me adapto rapidamente a diferentes contextos. Um ambiente ideal é aquele em que possa explorar minha capacidade analítica, com visão data-driven e minhas habilidades técnicas em projetos de dados, contribuindo para soluções estratégicas e tomadas de decisão baseadas em dados.
+*(Mais projetos em breve!)*
+
+---
+
+### 🛠️ Habilidades Técnicas
+
+- **Linguagens**: Python, SQL  
+- **Visualização de Dados**: Power BI  
+- **Conceitos**: Estatística, Análise Exploratória de Dados, Storytelling com dados  
+- **Ferramentas**: Jupyter Notebook, Git/GitHub, Power BI, SQLite
+
+---
+
+### 📫 Onde me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/helio-paiva-junior/)  
+- 📧 heliospjunior@gmail.com
+
+---
+
+🧠 Estou em constante evolução, buscando transformar dados em valor para negócios.  
+Se quiser trocar ideia, mandar sugestões ou colaborações, será um prazer!
 
 
-Hélio Paiva Júnior
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
