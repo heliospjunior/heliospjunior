@@ -11,6 +11,12 @@
 - [🦸‍♂️ Análise de Dados – Avengers](https://github.com/heliospjunior/analise-dados-avengers)  
   Análise exploratória feita com SQL e Power BI, utilizando dados dos Vingadores da Marvel.
 
+- [Análise Estratégica de Retenção - Foco Comercial] (https://github.com/heliospjunior/Churn-Analysis-Python/tree/main)
+  Este projeto simula um cenário de análise comercial focado em retenção de clientes,
+  inspirado em empresas de serviços recorrentes como de assinaturas.
+
+
+
 *(Mais projetos em breve!)*
 
 ---
