@@ -8,8 +8,12 @@
 
 ### 🚀 Projetos em destaque
 
-- [Análise Estratégica de Retenção - Foco Comercial](https://github.com/heliospjunior/Churn-Analysis-Python/tree/main)
-  Este projeto simula um cenário de análise comercial focado em retenção de clientes,
+- [Análise Estratégica de Retenção - Foco Comercial em Python](https://github.com/heliospjunior/Churn-Analysis-Python/tree/main)
+  Este projeto simula um cenário de análise comercial focado em retenção de clientes, com Python,
+  inspirado em empresas de serviços recorrentes como de assinaturas.
+
+- [Análise Estratégica de Retenção - Foco Comercial em PowerBI](https://github.com/heliospjunior/Churn-Analysis-Python/tree/main)
+  Este projeto simula um cenário de análise comercial focado em retenção de clientes, com Power BI,
   inspirado em empresas de serviços recorrentes como de assinaturas.
 
 - [🦸‍♂️ Análise de Dados – Avengers](https://github.com/heliospjunior/analise-dados-avengers)  
