@@ -16,6 +16,10 @@
   Este projeto simula um cenário de análise comercial focado em retenção de clientes, com Power BI,
   inspirado em empresas de serviços recorrentes como de assinaturas.
 
+- [Análise de Risco de Ruptura ERP - com dbt](https://github.com/heliospjunior/erp_analytics)
+  Este projeto simula um módulo analítico de um ERP, com foco em identificar risco de ruptura de estoque
+  e sugerir reposição inteligente baseada no consumo real.
+
 - [🦸‍♂️ Análise de Dados – Avengers](https://github.com/heliospjunior/analise-dados-avengers)  
 Análise exploratória feita com SQL e Power BI, utilizando dados dos Vingadores da Marvel.
 
