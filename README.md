@@ -1,35 +1,37 @@
 # 👋 Olá, eu sou o Helio Paiva Júnior
 
-🎓 Estudante de **Ciência de Dados**, atualmente iniciando uma **pós-graduação na área**.  
-📊 Tenho estudado e aplicado ferramentas como **Python**, **SQL**, **Power BI** e **Estatística**, com foco em projetos de análise de dados que gerem insights reais.  
-💼 Em transição de carreira para atuar como **Analista de Dados Júnior**.
+Atuo na organização e análise de dados com foco em transformar informações operacionais em indicadores confiáveis para tomada de decisão.
+
+Tenho desenvolvido projetos práticos utilizando SQL, Power BI e dbt, estruturando dados, padronizando métricas e gerando análises aplicadas
+ao negócio, especialmente em contextos como ERP, vendas e eficiência operacional.
+
+Meu foco é garantir qualidade, consistência e clareza dos dados, facilitando o uso das informações por áreas de negócio.
 
 ---
 
 ### 🚀 Projetos em destaque
 
 - [Análise de Investimento Publico x Indicadores Sociais em Minas Gerais e Contagem - MG](https://github.com/heliospjunior/investimento_social_mg)
-  Nesse projeto, analisei dados de transferências federais para municípios, cruzando essas informações
-  com indicadores como educação, população e economia.
+  Análise de dados públicos com foco na relação entre investimento, PIB e educação (IDEB), 
+  identificando padrões de eficiência na aplicação de recursos e geração de insights.
 
 - [Análise Estratégica de Retenção - Foco Comercial em Python](https://github.com/heliospjunior/Churn-Analysis-Python/tree/main)
-  Este projeto simula um cenário de análise comercial focado em retenção de clientes, com Python,
-  inspirado em empresas de serviços recorrentes como de assinaturas.
+  Simulação de cenário comercial voltado à retenção de clientes, com análise de comportamento,
+  métricas de churn e identificação de oportunidades de melhoria em receita recorrente..
 
 - [Análise Estratégica de Retenção - Foco Comercial em PowerBI](https://github.com/heliospjunior/Churn-Analysis-Python/tree/main)
-  Este projeto simula um cenário de análise comercial focado em retenção de clientes, com Power BI,
-  inspirado em empresas de serviços recorrentes como de assinaturas.
+  Simulação de cenário comercial voltado à retenção de clientes, com análise de comportamento,
+  métricas de churn e identificação de oportunidades de melhoria em receita recorrente.
 
 - [Análise de Risco de Ruptura ERP - com dbt](https://github.com/heliospjunior/erp_analytics)
   Este projeto simula um módulo analítico de um ERP, com foco em identificar risco de ruptura de estoque
   e sugerir reposição inteligente baseada no consumo real.
 
 - [🦸‍♂️ Análise de Dados – Avengers](https://github.com/heliospjunior/analise-dados-avengers)  
-Análise exploratória feita com SQL e Power BI, utilizando dados dos Vingadores da Marvel.
+  Análise exploratória feita com SQL e Power BI, utilizando dados dos Vingadores da Marvel.
 
 
-
-*(Mais projetos em breve!)*
+Interesse em oportunidades como Analista de Dados / BI, atuando com dados aplicados ao negócio.
 
 ---
 
