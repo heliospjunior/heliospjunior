@@ -8,6 +8,10 @@
 
 ### 🚀 Projetos em destaque
 
+- [Análise de Investimento Publico x Indicadores Sociais em Minas Gerais e Contagem - MG](https://github.com/heliospjunior/investimento_social_mg)
+  Nesse projeto, analisei dados de transferências federais para municípios, cruzando essas informações
+  com indicadores como educação, população e economia.
+
 - [Análise Estratégica de Retenção - Foco Comercial em Python](https://github.com/heliospjunior/Churn-Analysis-Python/tree/main)
   Este projeto simula um cenário de análise comercial focado em retenção de clientes, com Python,
   inspirado em empresas de serviços recorrentes como de assinaturas.
