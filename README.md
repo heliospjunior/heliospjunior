@@ -19,7 +19,7 @@ Meu foco é garantir qualidade, consistência e clareza dos dados, facilitando o
   Simulação de cenário comercial voltado à retenção de clientes, com análise de comportamento,
   métricas de churn e identificação de oportunidades de melhoria em receita recorrente..
 
-- [Análise Estratégica de Retenção - Foco Comercial em PowerBI](https://github.com/heliospjunior/Churn-Analysis-Python/tree/main)
+- [Análise Estratégica de Retenção - Foco Comercial em PowerBI](https://github.com/heliospjunior/Churn-Analysis-PowerBI)
   Simulação de cenário comercial voltado à retenção de clientes, com análise de comportamento,
   métricas de churn e identificação de oportunidades de melhoria em receita recorrente.
 
